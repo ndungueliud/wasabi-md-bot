@@ -1,0 +1,22 @@
+wasabi-md-bot/
+├── index.js              // pair code connection
+├── settings.js           // your config
+├── package.json
+├── menu/
+│   ├── imagemenu.js
+│   ├── videomenu.js
+│   ├── docmenu.js
+│   ├── buttonmenu.js
+│   ├── templatemenu.js
+│   ├── botmenu.js
+│   ├── ownermenu.js
+│   ├── groupmenu.js
+│   ├── downloadmenu.js
+│   ├── toolsmenu.js
+│   ├── funmenu.js
+├── lib/
+│   ├── functions.js
+│   ├── antilink.js
+│   ├── antibadword.js
+│   └── games.js
+└── session/              // auto created
